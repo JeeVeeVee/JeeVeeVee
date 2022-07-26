@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, welcome to my GitHub page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Jules Vervaeke and I'm 22 years old and currently studying Applied Computer Science @HoGent.
+
+
+## My GitHub stats!
+[![JeeVeeVee GitHub stats](https://github-readme-stats.vercel.app/api?username=JeeVeeVee&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeVeeVee&layout=compact&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JeeVeeVee/JeeVeeVee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
